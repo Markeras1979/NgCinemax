@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "NgCinemax"
+    }
+  },
+  "defaultProject": "NgCinemax",
+  "cli": {
+    "analytics": "80d6240e-288a-462c-99a2-85ac96bcc158"
+  }
 }
